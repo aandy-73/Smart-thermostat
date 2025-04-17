@@ -50,3 +50,9 @@ void checkComfortLevel(float current, float desired) {
         printf("IDEAL\n");
     }
 } 
+//GROUP D SCENARIO 1
+//AKENA ANDREW       2024/DCS/DAY/0271
+//NALWANGA EVELYNE   2024/dcsday0954g 
+//MIREMBE ESETHER    2024DCSDAY 0980G
+//KOMUJUNI  BETH     2024DCSDAY0989 G
+//NGABIRANO MARVIN ARTHUR   2024DCSDAY0621
